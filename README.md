@@ -3,4 +3,5 @@ Repositorio-de-Entrenamiento
 
 Repositorio Para Entrenar
 README File edited by diEgo
-Resulta que la vida continua!
+Modificacion de Ayer
+Dia dos de trabajo
